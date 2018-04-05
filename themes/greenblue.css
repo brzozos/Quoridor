@@ -1,0 +1,17 @@
+.root{
+    -fx-background-color:    #e6ffee;
+    -fx-font-size: 10pt;
+}
+.label{
+    -fx-text-fill: #e8e8e8;
+}
+.button{
+    -fx-background-color: linear-gradient(#99ebff, #006080);
+    -fx-text-fill: #e0e0eb;
+}
+.table-view{
+    -fx-background-color: #dc9656;
+}
+.table-view .column-header {
+    -fx-background-color: linear-gradient(#99ebff, #006080);
+}

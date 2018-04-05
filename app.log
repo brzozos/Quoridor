@@ -1,0 +1,268 @@
+2018-01-16 15:53:05,414 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 15:53:05,422 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 15:53:05,647 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 15:53:26,483 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-16 15:54:41,565 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 15:54:41,581 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 15:54:41,913 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 15:54:43,641 INFO a.App [JavaFX Application Thread] App created 
+2018-01-16 15:54:45,106 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-16 15:55:09,579 INFO u.DatabaseContext [JavaFX Application Thread] Inserted new match and updated players score Rafal amd Olaf 
+2018-01-16 15:55:09,582 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 15:55:09,585 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 15:55:09,652 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 16:06:04,009 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 16:06:04,021 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 16:06:04,256 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 16:06:06,736 INFO a.App [JavaFX Application Thread] App created 
+2018-01-16 16:06:07,914 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-16 16:06:42,745 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 16:06:42,759 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 16:06:42,994 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 16:06:44,884 INFO a.App [JavaFX Application Thread] App created 
+2018-01-16 16:06:46,233 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-16 16:07:09,050 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 16:07:09,072 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 16:07:09,578 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 16:07:11,267 INFO a.App [JavaFX Application Thread] App created 
+2018-01-16 16:07:12,261 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-16 16:09:15,711 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 16:09:15,722 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 16:09:15,979 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 16:09:17,682 INFO a.App [JavaFX Application Thread] App created 
+2018-01-16 16:09:34,216 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-16 16:18:23,625 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 16:18:23,639 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 16:18:23,855 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 16:18:26,272 INFO a.App [JavaFX Application Thread] App created 
+2018-01-16 16:18:27,440 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-16 16:19:57,331 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 16:19:57,363 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 16:19:57,888 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 16:19:59,805 INFO a.App [JavaFX Application Thread] App created 
+2018-01-16 16:20:00,998 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-16 16:20:24,068 INFO u.DatabaseContext [JavaFX Application Thread] Inserted new match and updated players score Unknown and Unknown 
+2018-01-16 16:20:24,071 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 16:20:24,073 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 16:20:24,137 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 16:20:35,648 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-16 21:29:51,907 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 21:29:51,917 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 21:29:52,383 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 21:29:54,750 INFO a.App [JavaFX Application Thread] App created 
+2018-01-16 21:29:58,369 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-16 21:31:17,197 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 21:31:17,207 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 21:31:17,462 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 21:31:19,171 INFO a.App [JavaFX Application Thread] App created 
+2018-01-16 21:31:20,165 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-16 21:32:18,708 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 21:32:18,717 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 21:32:19,089 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 21:32:21,366 INFO a.App [JavaFX Application Thread] App created 
+2018-01-16 21:32:22,293 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-16 21:35:25,829 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 21:35:25,840 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 21:35:26,116 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 21:35:27,876 INFO a.App [JavaFX Application Thread] App created 
+2018-01-16 21:35:28,892 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-16 21:36:44,577 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 21:36:44,591 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 21:36:44,897 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 21:36:46,698 INFO a.App [JavaFX Application Thread] App created 
+2018-01-16 21:36:47,911 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-16 21:38:15,231 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 21:38:15,271 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 21:38:15,600 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 21:38:17,544 INFO a.App [JavaFX Application Thread] App created 
+2018-01-16 21:39:31,942 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-16 21:40:16,227 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 21:40:16,239 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 21:40:16,456 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 21:40:18,201 INFO a.App [JavaFX Application Thread] App created 
+2018-01-16 21:40:19,573 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-16 21:52:38,612 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 21:52:38,622 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 21:52:38,904 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 21:52:41,108 INFO a.App [JavaFX Application Thread] App created 
+2018-01-16 21:52:42,211 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-16 22:00:02,024 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-16 22:00:02,037 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-16 22:00:02,410 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-16 22:00:04,158 INFO a.App [JavaFX Application Thread] App created 
+2018-01-17 21:44:35,114 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-17 21:44:35,455 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-17 21:44:40,260 INFO a.App [JavaFX Application Thread] App created 
+2018-01-17 21:46:06,198 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-17 21:56:40,307 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-17 21:56:40,348 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-17 21:56:40,765 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-17 21:56:43,014 INFO a.App [JavaFX Application Thread] App created 
+2018-01-17 22:14:17,643 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-17 22:14:17,695 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-17 22:14:18,267 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-17 22:14:20,870 INFO a.App [JavaFX Application Thread] App created 
+2018-01-17 22:19:13,843 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-17 22:19:13,864 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-17 22:19:14,258 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-17 22:19:16,268 INFO a.App [JavaFX Application Thread] App created 
+2018-01-17 22:26:46,206 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-17 22:33:32,772 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-17 22:33:32,781 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-17 22:33:32,806 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-17 22:33:32,812 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-17 22:33:32,813 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-17 22:33:33,013 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-17 22:33:35,336 INFO a.App [JavaFX Application Thread] App created 
+2018-01-17 22:35:55,526 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-17 22:35:55,535 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-17 22:35:55,567 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-17 22:35:55,571 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-17 22:35:55,571 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-17 22:35:55,790 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-17 22:35:57,666 INFO a.App [JavaFX Application Thread] App created 
+2018-01-17 22:35:59,437 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-17 22:36:12,115 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 1 
+2018-01-17 22:36:12,116 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 2 
+2018-01-17 22:36:12,117 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Nazwa 
+2018-01-17 22:36:12,117 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-17 22:36:12,119 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Zatwierdź 
+2018-01-17 22:36:14,692 INFO u.DatabaseContext [JavaFX Application Thread] Inserted new match and updated players score Unknown and Unknown 
+2018-01-17 22:36:14,702 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-17 22:36:14,705 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-17 22:36:14,715 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-17 22:36:14,715 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-17 22:36:14,716 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-17 22:36:14,780 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-17 22:45:01,653 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-17 22:45:01,662 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-17 22:45:01,712 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-17 22:45:01,714 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-17 22:45:01,714 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-17 22:45:01,987 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-17 22:45:04,683 INFO a.App [JavaFX Application Thread] App created 
+2018-01-17 22:45:29,805 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-17 22:49:04,443 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 1 
+2018-01-17 22:49:04,443 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 2 
+2018-01-17 22:49:04,444 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Nazwa 
+2018-01-17 22:49:04,444 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-17 22:49:04,447 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Zatwierdź 
+2018-01-17 22:49:41,823 INFO u.DatabaseContext [JavaFX Application Thread] Inserted new match and updated players score Bartosz and Ola 
+2018-01-17 22:49:41,829 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-17 22:49:41,831 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-17 22:49:41,839 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-17 22:49:41,839 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-17 22:49:41,839 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-17 22:49:41,919 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-18 13:09:14,523 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-18 13:09:14,559 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-18 13:09:14,563 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-18 13:09:14,563 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-18 13:09:15,508 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-18 13:09:20,905 INFO a.App [JavaFX Application Thread] App created 
+2018-01-24 08:41:55,814 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-24 08:41:55,857 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-24 08:41:55,866 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-24 08:41:55,866 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-24 08:41:56,963 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-24 08:41:59,402 INFO a.App [JavaFX Application Thread] App created 
+2018-01-24 08:42:11,548 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-24 08:42:11,726 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-24 08:42:11,769 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-24 08:42:11,777 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-24 08:42:11,778 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-24 08:42:12,291 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-24 08:42:14,125 INFO a.App [JavaFX Application Thread] App created 
+2018-01-24 08:42:17,057 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-24 08:42:25,129 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-24 08:42:25,146 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-24 08:42:25,183 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-24 08:42:25,185 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-24 08:42:25,186 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-24 08:42:25,386 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-24 08:42:26,992 INFO a.App [JavaFX Application Thread] App created 
+2018-01-24 09:52:31,269 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-24 09:52:31,337 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-24 09:52:31,378 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-24 09:52:31,384 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-24 09:52:31,385 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-24 09:52:32,261 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-24 09:52:37,821 INFO a.App [JavaFX Application Thread] App created 
+2018-01-24 09:53:05,183 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-24 09:53:05,199 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-24 09:53:05,231 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-24 09:53:05,234 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-24 09:53:05,234 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-24 09:53:05,570 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-24 09:53:07,837 INFO a.App [JavaFX Application Thread] App created 
+2018-01-24 09:54:45,078 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-24 09:54:45,108 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-24 09:54:45,142 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-24 09:54:45,144 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-24 09:54:45,144 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-24 09:54:45,383 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-24 09:54:47,197 INFO a.App [JavaFX Application Thread] App created 
+2018-01-24 09:56:57,769 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-24 09:56:57,894 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-24 09:56:57,938 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-24 09:56:57,943 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-24 09:56:57,945 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-24 09:56:58,294 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-24 09:57:00,096 INFO a.App [JavaFX Application Thread] App created 
+2018-01-24 10:00:23,884 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-24 10:00:23,909 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-24 10:00:23,939 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-24 10:00:23,944 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-24 10:00:23,945 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-24 10:00:24,188 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-24 10:00:26,152 INFO a.App [JavaFX Application Thread] App created 
+2018-01-24 10:04:38,081 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-24 10:04:38,094 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-24 10:04:38,125 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-24 10:04:38,145 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-24 10:04:38,146 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-24 10:04:38,348 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-24 10:04:40,296 INFO a.App [JavaFX Application Thread] App created 
+2018-01-24 10:05:57,598 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-24 10:27:57,579 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-24 10:27:57,606 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-24 10:27:57,687 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-24 10:27:57,690 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-24 10:27:57,691 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-24 10:27:57,886 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-24 10:28:00,033 INFO a.App [JavaFX Application Thread] App created 
+2018-01-24 10:36:42,725 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-24 10:36:42,736 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-24 10:36:42,756 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-24 10:36:42,758 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-24 10:36:42,758 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-24 10:36:42,943 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-24 10:36:44,537 INFO a.App [JavaFX Application Thread] App created 
+2018-01-24 10:45:47,671 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-24 10:46:17,456 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 1 
+2018-01-24 10:46:17,458 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 2 
+2018-01-24 10:46:17,458 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Nazwa 
+2018-01-24 10:46:17,459 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-24 10:46:17,464 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Zatwierdź 
+2018-01-24 10:46:29,628 INFO u.DatabaseContext [JavaFX Application Thread] Inserted new match and updated players score Kamil and Unknown 
+2018-01-24 10:46:29,638 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-24 10:46:29,640 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-24 10:46:29,648 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-24 10:46:29,648 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-24 10:46:29,648 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-24 10:46:29,713 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-24 10:47:59,986 INFO b.Board [JavaFX Application Thread] Board created 
+2018-01-24 11:51:13,228 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ROZPOCZNIJ 
+2018-01-24 11:51:13,240 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-01-24 11:51:13,394 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-01-24 11:51:13,396 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-01-24 11:51:13,397 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-01-24 11:51:13,589 INFO u.DatabaseContext [JavaFX Application Thread] Selected 5 players with top score form database 
+2018-01-24 11:51:15,849 INFO a.App [JavaFX Application Thread] App created 
+2018-01-24 11:51:48,325 INFO b.Board [JavaFX Application Thread] Board created 
+2018-04-05 07:55:22,141 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: ZAKOŃCZ 
+2018-04-05 07:55:22,163 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Gracz 
+2018-04-05 07:55:22,165 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Kraj 
+2018-04-05 07:55:22,165 INFO u.XMLReader [JavaFX Application Thread] Selected word in correct language from library: Wynik 
+2018-04-05 07:55:23,255 INFO a.App [JavaFX Application Thread] App created 
+2018-04-05 07:55:25,791 INFO b.Board [JavaFX Application Thread] Board created 

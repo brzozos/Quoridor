@@ -1,0 +1,27 @@
+<?xml version = "1.0"?>
+<class>
+    <language name = "en">
+        <start>START</start>
+        <exit>EXIT</exit>
+        <player>Player</player>
+        <country>Country</country>
+        <score>Score</score>
+        <player1>Player 1</player1>
+        <player2>Player 2</player2>
+        <name>Name</name>
+        <commit>Commit</commit>
+    </language>
+
+    <language name = "pl">
+        <start>ROZPOCZNIJ</start>
+        <exit>ZAKOŃCZ</exit>
+        <player>Gracz</player>
+        <country>Kraj</country>
+        <score>Wynik</score>
+        <player1>Gracz 1</player1>
+        <player2>Gracz 2</player2>
+        <name>Nazwa</name>
+        <commit>Zatwierdź</commit>
+    </language>
+
+</class>
